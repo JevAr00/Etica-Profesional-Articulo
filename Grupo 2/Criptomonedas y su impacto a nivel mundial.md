@@ -14,9 +14,9 @@ Aprobado DD/MM/AAAA
 
 
 
-***Resumen— Esta investigación nacio por la necesidad del centro de cuido y desarrollo infantil de Llanos de Santa Lucia en Paraíso de Cartago, se creó para que los niños de escasos recursos asistan al lugar, mientras sus padres o encargados estudian y/o trabajan. El CECUDI de Llanos de Santa Lucia en Paraíso de Cartago es parte de la política pública que permite proveer cuido y estimulación temprana a la niñez que vive en nuestro país. Este programa surge por la necesidad de la articulación de las políticas sociales divididas y enfocadas, que han buscado dar respuestas a las poblaciones en vulnerabilidad y riesgo, como lo es la niñez. El problema presentado es la insuficiente infraestructura y equipamiento tecnológica, ante esta dificultad se presenta una propuesta de plan de actualización informática para adecuar el proceso de aprendizaje de los niños y facilitar las actividades propias del centro. El trabajo enseño que por la falta de apoyo el centro careció de fondos e infraestructura para poder tener un sistema adecuado. De acuerdo con los demostrado se propone un plan de mejora para en centro CECUDI para ayudar a la comunidad. Con estos resultados se propone está en cumplimiento con la Ley N. 9220 y Ley N. 9290.*** 
+***Resumen— Hoy en día el avance tecnológico brinda muchas nuevas alternativas, lo que nos lleva a la transformación o el cambio en la manera que se realizan transacciones tanto presenciales como en línea, dejando casi que un poco de lado la moneda física. Las criptomonedas son un claro ejemplo de este caso, debido a que se han posicionado en el mercado financiero permitiéndoles así ser un método de pago a través de una plataforma conectada al internet, con la diferencia de que este no cuenta con ningún tipo de regulador oficial para identificar su trazabilidad. Esta herramienta de pago cada vez cobra más importancia a nivel mundial, ya sea por el número de usuarios que las utilizan o por la gran cantidad de dinero y especulación que generan. Por lo que a lo largo de este trabajo se contextualizará acerca de esta moneda, su evolución en los sistemas económicos y el grado de aceptación que ha llegado a tener.*** 
 
-***Abstract-** This research was born because of the need for the child care and development center of Llanos de Santa Lucia in Paraíso de Cartago, it was created so that low-income children attend the place, while their parents or guardians’ study and / or work. The CECUDI of Llanos de Santa Lucia in Paraíso de Cartago is part of the public policy that allows providing early care and stimulation to children living in our country. This program arises from the need for the articulation of divided and focused social policies, which have sought to respond to populations in vulnerability and risk, such as children. The problem presented is the insufficient infrastructure and technological equipment, given this difficulty, a proposal for a computer update plan is presented to adapt the children's learning process and facilitate the activities of the center. The work showed that due to the lack of support, the center lacked funds and infrastructure in order to have an adequate system. According to those shown, an improvement plan is proposed for the CECUDI center to help the community. With these results, it is proposed to comply with Law N. 9220 and Law N. 9290.*
+***Abstract-** Nowadays, technological progress provides many new alternatives, which leads us to the transformation or change in the way transactions are made both in person and online, leaving almost a little aside the physical currency. Cryptocurrencies are a clear example of this case because they have positioned themselves in the financial market allowing them to be a payment method through a platform connected to the internet, with the difference that this does not have any kind of official regulator to identify its traceability. This payment tool is becoming increasingly important worldwide, either because of the number of users who use them or because of the large amount of money and speculation they generate. Therefore, throughout this paper we will contextualize this currency, its evolution in economic systems and the degree of acceptance it has achieved.*
 
 ***Palabras Claves: CECUDI, Cartago, centro de cuido y desarrollo infantil, Santa Lucia, Paraiso, infraestructura, politica.*** 
 
@@ -40,12 +40,16 @@ AAA
 
 1. **OBJETIVO GENERAL**
 
-AAAA
+Explicar la manera en cómo la criptomoneda desde diferentes ámbitos ha influido al rededor del mundo.
 
 1. **OBJETIVOS ESPECÍFICOS** 
-- AAA
+- Definir que son las criptomonedas, como están compuestas y en que se basa su funcionamiento.
+- Identificar las razones por las cuales las criptomonedas tuvieron un aumento espontáneo.
+- Señalar cuales fueron las consecuencias a causa del incremento de la moneda.
+- Mencionar los diferentes puntos de vista que entidades gubernamentales y personas especulaban acerca de las criptomonedas.
+- Evaluar la situación que la criptomoneda presenta en la actualidad y el impacto que generó en la sociedad.
 
-1. ` `**DELIMITACIÓN, ALCANCE O COBERTURA** 
+1. **DELIMITACIÓN, ALCANCE O COBERTURA** 
 
 AAA
 
