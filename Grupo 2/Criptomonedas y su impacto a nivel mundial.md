@@ -1,125 +1,105 @@
+# Criptomonedas y su Impacto a Nivel Mundial
 
-Criptomonedas y su impacto a nivel mundial.
+Autores: Bryan Umaña López, Luis Delgado Jiménez, Jarot Carmiol Barrantes, Kevin Arias Ávila
+<br>
+<br>
 
-Cryptocurrencies and their worldwide impact.
+### Contenido
+- [Objetivos](#objetivos)
+  - General
+  - Específicos
+- [Resumen](#resumen)
+- [Abstract](#abstract)
+- [Introducción](#introducción)
+- [¿Qué son las criptomonedas?](#qué-son-las-criptomonedas)
+- [Crecimiento mundial de criptomonedas](#crecimiento-mundial-de-criptomonedas)
+- [Efectos del aumento en las criptodivisas.](#efectos-del-aumento-en-las-criptodivisas)
+- [El impacto de las divisas digitales en el mundo](#el-impacto-de-las-divisas-digitales-en-el-mundo)
+- [Criptomonedas en la Actualidad](#criptomonedas-en-la-actualidad)
+- [Marco Metodológico](#marco-metodológico)
+- [Conclusión](#conclusión)
+- [Recomendación](#recomendación)
+- [Bibliografía](#bibliografía)
 
-*Jarot Carmiol Barrantes, Bryan Umaña Lopez, Luis Delgado Jimenez, Kevin Arias Avila*
+### Tabla de Ilustraciones
+- [Ilustración 1 Gráfico porcentaje de población]
+- [Ilustración 2 Gráfico porcentaje de conocimiento]
+- [Ilustración 3 Gráfico rango de edades]
+- [Ilustración 4 Gráfico medios de información]
+- [Ilustración 5 Gráfico área tecnológica]
+- [Ilustración 6 Gráfico interés/desinterés]
+- [Ilustración 7 Gráfico sustitución por divisa digital]
+- [Ilustración 8 Gráfico vulnerabilidad frente a estafas]
 
-Recibido DD/MM/AAAA
-
-Aprobado DD/MM/AAAA
-|1|Tecnología Vital Por Confirmar – Mes Año|
-| :- | -: |
-
-
-
-
-***Resumen— Hoy en día el avance tecnológico brinda muchas nuevas alternativas, lo que nos lleva a la transformación o el cambio en la manera que se realizan transacciones tanto presenciales como en línea, dejando casi que un poco de lado la moneda física. Las criptomonedas son un claro ejemplo de este caso, debido a que se han posicionado en el mercado financiero permitiéndoles así ser un método de pago a través de una plataforma conectada al internet, con la diferencia de que este no cuenta con ningún tipo de regulador oficial para identificar su trazabilidad. Esta herramienta de pago cada vez cobra más importancia a nivel mundial, ya sea por el número de usuarios que las utilizan o por la gran cantidad de dinero y especulación que generan. Por lo que a lo largo de este trabajo se contextualizará acerca de esta moneda, su evolución en los sistemas económicos y el grado de aceptación que ha llegado a tener.*** 
-
-***Abstract-** Nowadays, technological progress provides many new alternatives, which leads us to the transformation or change in the way transactions are made both in person and online, leaving almost a little aside the physical currency. Cryptocurrencies are a clear example of this case because they have positioned themselves in the financial market allowing them to be a payment method through a platform connected to the internet, with the difference that this does not have any kind of official regulator to identify its traceability. This payment tool is becoming increasingly important worldwide, either because of the number of users who use them or because of the large amount of money and speculation they generate. Therefore, throughout this paper we will contextualize this currency, its evolution in economic systems and the degree of acceptance it has achieved.*
-
-***Palabras Claves: CECUDI, Cartago, centro de cuido y desarrollo infantil, Santa Lucia, Paraiso, infraestructura, politica.*** 
-
-***Keywords: CECUDI, Carthage, child care and development center, Santa Lucia, Paraiso, infrastructure, politics.***
-
-1. **INTRODUCCIÓN** 
-
-AAA
-
-1. **ANTECEDENTES DEL PROBLEMA DE ESTUDIO** 
-
-AAA
-
-1. **PLANTEAMIENTO DEL PROBLEMA** 
-
-AAAA
-
-1. **JUSTIFICACIÓN**
-
-AAA
-
-1. **OBJETIVO GENERAL**
-
+## Objetivos
+**General**:<br>
 Explicar la manera en cómo la criptomoneda desde diferentes ámbitos ha influido al rededor del mundo.
-
-1. **OBJETIVOS ESPECÍFICOS** 
+<br>
+<br>
+**Específicos**:
 - Definir que son las criptomonedas, como están compuestas y en que se basa su funcionamiento.
 - Identificar las razones por las cuales las criptomonedas tuvieron un aumento espontáneo.
 - Señalar cuales fueron las consecuencias a causa del incremento de la moneda.
 - Mencionar los diferentes puntos de vista que entidades gubernamentales y personas especulaban acerca de las criptomonedas.
 - Evaluar la situación que la criptomoneda presenta en la actualidad y el impacto que generó en la sociedad.
 
-1. **DELIMITACIÓN, ALCANCE O COBERTURA** 
+## Resumen
+Hoy en día el avance tecnológico brinda muchas nuevas alternativas, lo que nos lleva a la transformación o el cambio en la manera que se realizan transacciones tanto presenciales como en línea, dejando casi que un poco de lado la moneda física. Las criptomonedas son un claro ejemplo de este caso, debido a que se han posicionado en el mercado financiero permitiéndoles así ser un método de pago a través de una plataforma conectada al internet, con la diferencia de que este no cuenta con ningún tipo de regulador oficial para identificar su trazabilidad. Esta herramienta de pago cada vez cobra más importancia a nivel mundial, ya sea por el número de usuarios que las utilizan o por la gran cantidad de dinero y especulación que generan. Por lo que a lo largo de este trabajo se contextualizará acerca de esta moneda, su evolución en los sistemas económicos y el grado de aceptación que ha llegado a tener.
+<br>**Palabras clave: Criptomoneda, Dinero digital, Blockchain, Wallet**
 
-AAA
+## Abstract
+Nowadays, technological progress provides many new alternatives, which leads us to the transformation or change in the way transactions are made both in person and online, leaving almost a little aside the physical currency. Cryptocurrencies are a clear example of this case because they have positioned themselves in the financial market allowing them to be a payment method through a platform connected to the internet, with the difference that this does not have any kind of official regulator to identify its traceability. This payment tool is becoming increasingly important worldwide, either because of the number of users who use them or because of the large amount of money and speculation they generate. Therefore, throughout this paper we will contextualize this currency, its evolution in economic systems and the degree of acceptance it has achieved.
+<br>**Keywords: Cryptocurrency, Blockchain, Wallet**
 
-1. **RESTRICCIONES Y/O LIMITACIONES**
+## Introducción
+En la actualidad el desarrollo de tecnologías nuevas ha traído o logrado grandes cambios a la sociedad, integrando en la vida cotidiana procesos o mecanismos que ayudan a realizar sus actividades de manera rápida, segura y eficaz.
+Dentro de estos desarrollos o avances se puede contemplar el modo en que hoy en día se manipula el dinero, esto refiriéndose a que las personas tienen las posibilidades de controlar sus saldos bancarios y cuentas, además de poder realizar transacciones desde y a cualquier parte del mundo de una manera casi inmediata.
+Mencionados avances o innovaciones se dan como consecuencia a raíz de los cambios que la sociedad como consumidores va adquiriendo, generando algunas veces un poco de desequilibrio entre las economías y finanzas.
+Para nadie es un secreto que la tecnología ha afectado muchas cosas rompiendo todo tipo de barreras, tanto así que ha generado una evolución financiera muy marcadas, tanto así que las monedas que se conocen se virtualicen.
+Actualmente se puede escuchar el término de criptomonedas porque se ha vuelto común, porque es un tema que ha dado de que hablar, por el desarrollo que tuvo y tiene en el sector económico y esto se da más que todo porque irrumpió en cómo se basa la economía, los negocios y hasta la propia gobernabilidad siendo estos pilares de la sociedad.
 
-AAA
+## ¿Qué son las criptomonedas?
+Una cripto-moneda (El prefijo “cripto-” de la palabra “criptomoneda” significa “secreto” en griego) también conocida como criptoactivos. Las criptodivisas son un activo digital, es decir que cumplen con las funciones de una moneda tal como el dólar o en nuestro caso los colones, pero con la diferencia de que estas son totalmente en línea y emplean un cifrado criptográfico esto con el fin de asegurar sus transacciones financieras, controlar cuando se da la creación de nuevas unidades evitando que se creen copias de una misma, como también verificar las transferencias de activos. Por lo que se consideraría este activo como una alternativa descentralizada a otras monedas virtuales, con esto se quiere dar a entender que estas monedas no son controladas por un intermediario, entidades o bancos. Esto gracias a la criptografía que permite que las transacciones sean anónimas, seguras y confiables.
+Pero para entender un poco más estas monedas o su funcionamiento se debe conocer otros conceptos tales como wallet, mineros, exchanges y Blockchain. Entonces qué son estos conceptos, bueno se comentará primero el termino wallet, este hace referencia a una cartera, billetera o monedero virtual en donde va a estar almacenado toda criptomoneda que tengamos y se realizarán las operaciones de recepción y envío a través de la red Blockchain.
+Pero ¿Qué es Blockchain o cadena de bloques?, bueno básicamente es una red de ordenadores descentralizada con diferentes nodos, donde sus nodos están enlazados y asegurados por el tema de criptografía, en cada bloque enlazado se encontrará también una fecha y datos de transacción y por este diseño es que son muy resistentes a la modificación de datos. 
+Se podría decir que es una base de datos distribuida y segura. Sin embargo, hay un requerimiento muy importante para que la cadena funcione y es que debe haber varios usuarios (nodos) para que se realicen las verificaciones, validación y respectivo registro de las transacciones dentro de la cadena. Esta última línea es importante porque los bloques tienen capacidades limitadas que dependen de la estructura de la cadena y del tamaño de la transacción, entonces lo que ocurre cuando un bloque llega al límite es decir no admite más transacciones, llega el momento de validarlo o sellarlo que es lo que hacen los usuarios cuando minan, esto está siendo mencionado porque en este punto es donde entra el concepto antes mencionado de minería o mineros.
+El minar básicamente consiste en realizar una serie de cálculos sumamente complejos que requieren tiempo, pero cuando el proceso es finalizado, los bloques quedan registrados de forma permanente en la cadena y no pueden ser modificados sin afectar o alterar los demás bloques. Al hacer esto el minero recibe como recompensa la criptomoneda que esté minando. Pero esto cada vez es más complicado, se vuelve un proceso más costoso por lo que normalmente lo que se hace es que muchos mineros utilizando algún software específico se unen a más mineros creando lo que se conoce como “pools” y lo que sucede es que cuando uno de los mineros descubre la solución avisa a los demás, que proceden a comprobar que sea correcta la solución y añaden ese bloque a la cadena de bloques completa.
+El último, pero no menos importante es el concepto de los “exchanges”, que en una manera sencilla de expresar son empresas que te van a permitir cambiar monedas como dólares o colones por Bitcoins, añadiéndolos así a tu antes mencionada wallet y así ya estar introducido en este mundo de criptomonedas.
 
-1. **VIABILIDAD**
+## Crecimiento mundial de criptomonedas
+A partir de mediados del 2020 las criptomonedas, comenzaron a tener un crecimiento sustancial con respecto a sus años anteriores, esto es debido a que muchas grandes empresas por razones como: protegerse frente a la inflación de las divisas, proveer transparencia y mayor seguridad a la hora de realizar transacciones, diversificar el portafolio de la compañía, entre otros. Llevo a las compañías a realizar inversiones en criptodivisas, el realizar estas acciones permitió que el valor de la moneda virtual conocida como Bitcoin comenzara a elevarse y esto a su vez provoco que las demás monedas que utilizan el Bitcoin como referencia elevaran su precio.  Pero no solo se debió a la inversión de las compañías, la minería también contribuyo a este a aumento, pero contribuyo de una manera que podría considerarse fuera de lo que ya era normal dentro de la minería de las criptomonedas. Esto se debió a una moneda conocida como Ethereum. 
+El poder computacional requerido para la minería de esta moneda no era tan exigente como el del Bitcoin, lo cual, hacia posible que usuarios con computadores que contaran con tarjetas gráficas les fuera posible minar Ethereum, esto significa que cualquier persona desde la comodidad de su hogar que contara con un computador que utilizara una tarjeta gráfica de potencia media podría realizar minería de Ethereum, solamente con encender su computador y abrir el programa especializado para realizar este proceso. 
+Al inicio los medios digitales presentaban a los lectores pensamientos u opiniones negativas acerca de la minería, pero debido a la situación de la pandemia, los medios digitales comenzaron a presentar la minería como una posible opción para afrontar la situación relacionada al desempleo, lo que impulso a usuarios comunes a realizar minería, todo esto bajo el efecto FOMO (“Fear Of Missing Out” traducido al español “Miedo a perderse algo”) permitiendo que el Ethereum elevara su valor, los usuarios comunes comenzaron a replicar lo mismo que usuarios especializados realizaban, cambiaban su Ethereum por Bitcoin o directamente cambiaban dólares por Bitcoin. Este evento se extendió a lo largo del 2021, teniendo dos fases durante ese año. 
+Lo primero fue la inclusión de nuevos mineros, el proceso se basó en su mayor parte en prestar poder computacional para minar Bitcoin, y a los mineros se les pagaba en Ethereum, esto, aunque no provoco un gran aumento en el momento, poco a poco se fue contribuyendo al incremento del valor de Bitcoin. Este fue el punto de partida para explotar el Ethereum, presentándose como una moneda estable. La segunda fase fue la creación y expansión de los NFTs, lo cual en pocas palabras puede describirse como documento digital el cual fue utilizado como un archivo de autorización de transacciones en el Blockchain y ahora posee un valor único en todo el espacio digital. 
+Estos documentos comenzaron a comercializarse, bajo el argumento de que “a cambio de tu Ethereum tendrás un archivo único en todo el internet” lo cual hizo que muchas personas empezaran a comprarlos, en un inicio parecía una idea extraña para quienes lo compraban pero para quienes los creaban era un negocio rentable ya que la gran mayoría de NFTs eran imágenes, esto provoco que estos documentos digitales se vendieran a precios muy altos, como las cripto divisas son bastante volátiles muchas personas no tomaron suficiente importancia, pero debido a este negocio, el valor comenzó a crecer tanto que las personas ahora pagan cantidades de dinero por conseguir uno. Debido a todos estos factores el 7 de noviembre del 2021 el bitcoin alcanza un valor histórico de $67,566 y por esto el mundo cambia su pensar acerca de las criptomonedas y como afectaran en el futuro.
 
-AAAA. 
+## Efectos del aumento en las criptodivisas.
+Debido al notable aumento en el valor de las monedas virtuales, esto provoco diversas reacciones alrededor del mundo. Podemos observar casos como el de El Salvador que tomó la decisión de adoptar el Bitcoin como una moneda de circulación legal, en la ley aprobada se menciona que se puede utilizar esta moneda para realizar pagos de bienes e impuestos. 
+En el caso de otros países como China, se declaró como ilegal cualquier actividad relacionada con las criptomonedas. Incluyendo servicios como comercio de activos digitales, emisión de tokens y derivados. Por otra parte, a medida que la demanda de Ethereum, la red de cadena de bloques más utilizada aumentó, surgieron otros proyectos en un intento de competir. Como ejemplo tenemos “Avalanche” y “Solana”, las cuales fueron lanzadas desde el 2020 como plataformas para contratos inteligentes y la creación de aplicaciones descentralizadas. Cada plataforma presentaba un nuevo token, AVAX y SOL, respectivamente, estos nuevos competidores saltaron a las 10 principales criptomonedas y ganaron participación de mercado entre el resto en el 2021. 
+Ethereum por su parte lanzó EIP-1559 y se preparó para la fusión con Ethereum2. La actualización, llamada “London”, incluía la propuesta de mejora de Ethereum (EIP) 1559, que cambió la forma en que se estiman las tarifas de transacción o "tarifas de gas" (se refiere a el cobro que se realiza por extraer la moneda minada de una plataforma para almacenarla en una wallet). 
+Se espera que, en algún momento de 2022, Ethereum cambie a un modelo de prueba de participación, donde los usuarios solo pueden validar las transacciones de acuerdo con la cantidad de monedas que tienen, en lugar de utilizar las plataformas mineras de uso intensivo de energía. Este movimiento es parte de la fusión con Ethereum 2.0 o Eth2. Esto presenta un gran impacto, ya que cambiará la infraestructura de Ethereum y en última instancia, hará que la minería quede obsoleta.
 
+## El impacto de las divisas digitales en el mundo
+Las criptomonedas son una consecuencia de la era digital y del desarrollo impetuoso de las tecnologías de la información y las comunicaciones (TIC). Con el paso de los años, han aparecido más de 3 000 nuevas monedas digitales y los inversionistas mundiales cada vez le prestan más atención. Grandes tiendas, virtuales y físicas, ya las aceptan como medios de pago. 
+Debemos recordar que en este método de pago no existe una autoridad ni bancos centrales que gestionen el sistema ni nadie que sea su propietario. Su aceptación dependerá, en última instancia, de la confianza que genere la moneda. Debido a este podemos preguntarnos:
+¿Qué están haciendo los gobiernos y los bancos centrales frente a esta disrupción?
+Costa Rica es uno de los pocos países en Latinoamérica que posee una de las regulaciones más abiertas sobre el uso de Bitcoin y las criptomonedas. Según un reciente estudio, parte de la opinión pública apunta a que el país se ha quedado rezagados frente a otros países en el ámbito de adoptar Bitcoin.
+En Estados Unidos, según Jerome Powell, miembro del directorio y presidente designado de la Reserva Federal, aún existe poca confianza en el sistema: “El gobierno y la gestión del riesgo serán críticos” asegura. Adicionalmente, frente a la posibilidad de una criptomoneda propia del banco central, la privacidad es un tema que aún falta por explorar a profundidad.
+En contraste con esta posición, Estados Unidos es el país que más transacciones realiza con criptomonedas. De hecho, es bastante común en sectores tecnológicos como Silicon Valley.
+Por otra parte, Japón es uno de los pocos países en el que, el comercio con Bitcoin está totalmente aceptado. De hecho, cuenta con más de 200.000 establecimientos comerciales que lo usan activamente. No obstante, según el gobernador de Banco del Japón, Haruhiko Kuroda, comenta que no existe ningún plan inmediato de emitir monedas digitales.
+Europa también se hace presente frente al estado actual de las criptodivisas. El Banco Central Europeo constantemente advierte sobre los peligros de invertir en monedas digitales. Además, relacionan las criptomonedas con temas como la evasión fiscal y tráfico de productos ilegales.
+En contraste a lo que advierte el Banco Central Europeo, en Reino Unido, Mark Carney, gobernador del Banco de Inglaterra se muestra muy positivo frente a la “revolución” que las criptomonedas plantean para potenciar las finanzas. Asimismo, ve muy promisoria la tecnología Blockchain debido a la seguridad que ofrece frente a ciberataques a entidades financieras.
+A su vez, en Holanda, El Banco Central creó su propia criptomoneda, el DNBcoin, con el fin de entender el funcionamiento y despliegue que tendría. Después de analizar los resultados, Rob Berndsen, quien estuvo a cargo del proyecto, exaltó los beneficios del Blockchain al ser aplicable al pago de transacciones financieras complejas.
+China por su parte, posee un equipo de investigación creado desde 2014. El Banco Popular de China está desarrollando un dinero digital de curso legal. Adicionalmente, dicha institución tiene el control total de las criptomonedas lo que hace que emisores privados como el Bitcoin sean prohibidos en este territorio.
+Suiza, ahora es más conocida como “Crypto Valley” ya que en ella se han desarrollado importantes proyectos como el Ethereum. Asimismo, es un “paraíso del emprendimiento” ya que el gobierno apoya constantemente las iniciativas tecnológicas. Su aceptación es tal que existen ciudades donde se pueden pagar tanto los impuestos como las matrículas universitarias con Bitcoin.
 
-1. **MARCO SITUACIONAL METODOLÓGICO**
+## Criptomonedas en la Actualidad
+En pleno 2022 una gran parte de la población no conoce de gran manera acerca de las criptomonedas, solo tienen como concepto que es una moneda digital y que en estos últimos años han obtenido un gran valor en cuestión monetaria, entonces podemos observar que ahora esas personas buscan “aventurarse” en este nuevo negocio.
+En noticieros y periódicos se han publicado o comentado a acerca de las criptomonedas como un nuevo método de pago. Lo cual también ha incentivado a las personas a utilizar de sus ahorros para adquirir estos bienes electrónicos. Sin embargo, es todavía algo incipiente para lo que aún nos queda mucho por aprender.
+Esto también ha hecho que los estafadores aprovechen cualquier descuido. Según datos de la FTC (Federal Trade Commission), entre octubre de 2020 y mayo de 2021, los estadounidenses perdieron unos 80 millones de dólares en estafas relacionadas con las criptomonedas.
+Debemos recordar que hay que ser precavidos con la información que recibimos, y aunque el negocio de las criptomonedas se desarrolla de muchas maneras no debe caerse en las típicas trampas para conseguir dinero fácil. Es bueno mencionar que este mundo de las criptomonedas al ser descentralizada cada persona es dueña de su propia información por lo tanto debe seguirse la regla básica de protección y no brindar ningún dato sensible que pueda comprometer a la persona involucrada. 
+Aunque este negocio novedoso parezca una gran oportunidad para generar dinero, siempre debe estarse informado para evitar cualquier tipo de fraude. Es posible ver a personas llegar a ciertos extremos todo por pensar que pueden llegar a desaprovechar una gran oportunidad en este negocio en crecimiento.
+Con el auge de las criptomonedas, podemos observar por otra parte, empresas comenzar a surgir bajo este tipo de negocio como lo es el ejemplo de Criptan. El cual se podría definir como un criptobanco con el cual es posible comprar, almacenar e incluso obtener ganancias de las criptomonedas. Criptan busca acercar las ventajas de las criptomonedas y todo el sistema blockchain al día a día de las personas.
+Por otra parte, en este nuevo mundo influenciado por las criptomonedas, según un informe especializado en social trading de la empresa financiera eToro, un año antes de la pandemia, el porcentaje de mujeres que invertía en bitcoins habría aumentado. 
+Se observa que las mujeres representan el 23% de los usuarios de las monedas digitales que se encuentra en el mercado y se mujeres que se interesen en este sector. No es de negar que la presencia de la mujer cada vez es mayor, el estudio ya antes mencionado nos indica que una gran parte de las mujeres inversoras de criptomonedas son ingenieras desarrolladoras y otras ingenieras de datos. 
 
-AAA
-
-
-
-1. **DIAGNÓSTICO DEL ESTADO ACTUAL** 
-
-AAAA
-
-1. **Propuesta de Cambio** 
-
-AAAA
-
-1. **Conclusión**
-###### *AAA*
-
-1. **Recomendación**
-
-AAA
-
-
-Cerramos con una frase de relevancia: *AA*
-
-
-1. # References
-akamai.com. (2019). *private cloud*. Retrieved from private cloud: https://www.akamai.com/es/es/resources/private-cloud.jsp
-
-azure.microsoft.com. (2019). *gartner-iaas-magic-quadrant*. Retrieved from gartner-iaas-magic-quadrant: https://azure.microsoft.com/en-us/resources/gartner-iaas-magic-quadrant/en-us/
-
-blog.cofike.com. (2013). *la-regla-de-oro-de-los-tres-presupuestos/*. Retrieved from la-regla-de-oro-de-los-tres-presupuestos/: https://blog.cofike.com/la-regla-de-oro-de-los-tres-presupuestos/
-
-computerworld.es. (2018). *Tendencias de nube pública para el 2018*. Retrieved from Tendencias de nube pública para el 2018: https://www.computerworld.es/tecnologia/tendencias-de-nube-publica-para-2018
-
-Corporación GBM. (2018). *GBM*. Retrieved from GBM: https://www.gbm.net/es/gbm-impulsa-la-nube-hibrida
-
-Dikaiakos, M. D., Katsaros, D., Mehra, P., Pallis, G., & Vakali, A. (2009). Cloud Computing: Distributed Internet Computing for IT and Scientific Research. *IEEE Internet Computing*, 10 - 13.
-
-docs.microsoft.com. (2018). *multi-region*. Retrieved from multi-region: https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/app-service-web-app/multi-region
-
-docs.microsoft.com. (2018). *multi-region-application*. Retrieved from multi-region-application: https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/virtual-machines-windows/multi-region-application
-
-fayerwayer. (2012, Enero). *fayerwayer*. Retrieved from https://www.fayerwayer.com/2012/01/el-origen-de-el-computo-en-la-nube/
-
-Google.com. (2019). *site/tutorias1clopezp/4--aplicaciones/4-2--aplicaciones-en*. Retrieved from site/tutorias1clopezp/4--aplicaciones/4-2--aplicaciones-en: https://sites.google.com/site/tutorias1clopezp/4--aplicaciones/4-2--aplicaciones-en
-
-hpe.com. (2019). *cloud-computing*. Retrieved from cloud-computing: https://www.hpe.com/mx/es/what-is/cloud-computing.html
-
-ibm.com. (2017, julio 4). *la-nube-hibrida-en-una-mentalidad-transformacion-digital*. Retrieved from la-nube-hibrida-en-una-mentalidad-transformacion-digital: https://www.ibm.com/blogs/systems/mx-es/2017/07/la-nube-hibrida-en-una-mentalidad-transformacion-digital/
-
-Microsoft. (2019). *Microsoft Azure*. Retrieved from Nube Pública: https://azure.microsoft.com/es-es/overview/what-is-a-public-cloud/
-
-Microsoft Azure. (2019). *Microsoft Azure*. Retrieved from Nube Privada: https://azure.microsoft.com/es-es/overview/what-is-a-private-cloud/
-
-mundocontact. (2018, Agosto 7). *mundocontact*. Retrieved from mundocontact: https://mundocontact.com/nube-publica-privada-o-hibrida-cual-elegir/
-
-PMI. (2013). Guia del PMBOK. In PMI, *Guia del PMBOK* (p. 560).
-
-Redhat. (2019). *cloud-access*. Retrieved from cloud-access: https://www.redhat.com/es/technologies/cloud-computing/cloud-access
-
-Universitat de Barcelona Business School . (2018). *requisitos-de-un-proyecto-evita-las-dudas*. Retrieved from requisitos-de-un-proyecto-evita-las-dudas: https://www.obs-edu.com/int/blog-project-management/conceptos-fundamentales-direccion-de-proyectos/requisitos-de-un-proyecto-evita-las-dudas
