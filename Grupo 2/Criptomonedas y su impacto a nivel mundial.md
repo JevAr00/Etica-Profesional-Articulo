@@ -21,15 +21,8 @@ Autores: Bryan Umaña López, Luis Delgado Jiménez, Jarot Carmiol Barrantes, Ke
 - [Recomendación](#recomendación)
 - [Bibliografía](#bibliografía)
 
-### Tabla de Ilustraciones
-- [Ilustración 1 Gráfico porcentaje de población]
-- [Ilustración 2 Gráfico porcentaje de conocimiento]
-- [Ilustración 3 Gráfico rango de edades]
-- [Ilustración 4 Gráfico medios de información]
-- [Ilustración 5 Gráfico área tecnológica]
-- [Ilustración 6 Gráfico interés/desinterés]
-- [Ilustración 7 Gráfico sustitución por divisa digital]
-- [Ilustración 8 Gráfico vulnerabilidad frente a estafas]
+<br>
+<br>
 
 ## Objetivos
 **General**:<br>
@@ -103,3 +96,13 @@ Con el auge de las criptomonedas, podemos observar por otra parte, empresas come
 Por otra parte, en este nuevo mundo influenciado por las criptomonedas, según un informe especializado en social trading de la empresa financiera eToro, un año antes de la pandemia, el porcentaje de mujeres que invertía en bitcoins habría aumentado. 
 Se observa que las mujeres representan el 23% de los usuarios de las monedas digitales que se encuentra en el mercado y se mujeres que se interesen en este sector. No es de negar que la presencia de la mujer cada vez es mayor, el estudio ya antes mencionado nos indica que una gran parte de las mujeres inversoras de criptomonedas son ingenieras desarrolladoras y otras ingenieras de datos. 
 
+## Marco Metodológico
+Las nuevas tecnologías y el ciberespacio se encuentran en constante actualización y crecimiento. El propósito de este estudio es comprobar cómo se han visto influenciadas las personas con respecto al desarrollo que las criptomonedas han tenido en los últimos años. Específicamente se desea responder a la pregunta ¿Se han vuelto las criptomonedas un tema de interés en la vida diaria? 
+Un diseño no experimental transversal, más específicamente un diseño por encuesta, fue el que se utilizó para este estudio sobre una muestra seleccionada a partir de una población general de los círculos sociales de los integrantes. La encuesta principalmente buscaba obtener datos sobre la cantidad de personas que sienten interés sobre las criptomonedas, cuales fueron los medios que más hicieron llegar contenido sobre las criptomonedas, y como se sentirían si tuvieran que hacer uso de estas. 
+Este tipo de diseño permite ser utilizado en diversos grupos de personas asegurando la confidencialidad del usuario que la realiza y siendo la forma más eficaz para obtener información de manera fácil y rápida, además permite al investigador el uso de herramientas adicionales para el análisis de los datos que se encuentran relacionados en otros puntos de la encuesta.
+Como resultado una vez reunida, comprendida y estructurada la información proporcionada por medio de mencionada encuesta, se obtuvo el análisis de los gráficos presentados a continuación:
+
+###### Gráfico 1 porcentaje de población
+![poblacion logo](./graficos/porcentaje-poblacion.png)
+
+Por medio de la encuesta realizada se pudo observar que el porcentaje de participación de mujeres con respecto a los hombres es un 24,24% mayor, lo cual puede ser considerado una buena señal, debido a que se aprecia que la cantidad de mujeres interesadas en el tema de las criptomonedas ha incrementado. [ver gráfico 1](#gráfico-1-porcentaje-de-población)
