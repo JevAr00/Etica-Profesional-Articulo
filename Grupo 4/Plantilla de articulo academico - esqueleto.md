@@ -2,7 +2,7 @@
 
 Computing update to streamline the processes of the Child Care and Development Center
 
-*Maricela Arroyo Mena, Hensley Gabriela Vega Mora, Berny Gerardo Calvo, Fauricio Alban Conejo Navarro*
+* Hensley Gabriela Vega Mora, Berny Gerardo Calvo, Fauricio Alban Conejo Navarro*
 
 Recibido DD/MM/AAAA
 
